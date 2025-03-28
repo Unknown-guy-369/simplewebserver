@@ -6,6 +6,7 @@ content="""
 </head>
 <body>
     <center>
+        <img src="simplewebserver/logo.png" height="100"  >
     <table style="background-color: aliceblue;" border="1" cellpadding="10" cellspacing="0">
         <tr><th>S.no</th><th>Layer</th><th>Proctocal</th></tr>
         <tr >
